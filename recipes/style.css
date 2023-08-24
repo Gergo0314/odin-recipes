@@ -1,0 +1,33 @@
+* {
+    font-family: Helvetica, sans-serif;
+    align-items: center;
+    color: #E0E7E9;  
+    background-color: #6C7A89;
+}
+
+.list {
+ text-align: center;
+}
+
+ul, ol {
+    display: inline-block;
+    text-align: left;
+}
+
+
+img {
+    max-width: 300px;
+    max-height: 300px;
+    object-fit: fill;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 5px;
+}
+
+h1, h2, p {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    max-width: 300px;
+}
